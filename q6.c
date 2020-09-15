@@ -1,3 +1,7 @@
+// Program to convert a number from decimal to binary
+// Input: 5
+// Output: 0101
+
 #include <stdio.h>
 #include <math.h>
 int main(){

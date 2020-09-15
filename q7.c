@@ -1,3 +1,8 @@
+// Program to check whether a number is a Harshad number or not. Harshad
+// Number is an integer that is divisible by the sum of its digits.
+// Input: 1729
+// Output: Harshad Number
+
 #include <stdio.h>
 void harshadNumber(int n){
 	int n1=n,s=0;

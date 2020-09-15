@@ -1,3 +1,8 @@
+// Program to find the GCD of n numbers.
+// Input: n=6
+// 5 10 25 45 95 65
+// Output: 5
+
 #include <stdio.h>
 #include <stdlib.h>
 int* sort(int a[],int n){

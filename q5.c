@@ -1,3 +1,8 @@
+// Program to print first n non-fobo numbers. First n numbers not in Fibonacci
+// series. 0 1 1 2 3 5 8 13……
+// Input: n=5
+// Output: 4 6 7 9 10
+
 #include <stdio.h>
 #include <stdlib.h>
 

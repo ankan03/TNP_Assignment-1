@@ -1,3 +1,7 @@
+// Program to find sum of the prime factors of a number.
+// Input: n=100
+// Output: 2+5=7
+
 #include <stdio.h>
 #include <stdlib.h>
 int isPrime(int n){

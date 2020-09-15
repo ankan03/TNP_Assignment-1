@@ -1,3 +1,7 @@
+// Program to print nth prime number.
+// Input: n=5
+// Output: 11
+
 #include <stdio.h>
 #include <stdlib.h>
 int prime(int n){

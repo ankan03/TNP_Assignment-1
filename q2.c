@@ -1,3 +1,7 @@
+// Program to print nth Fibonacci number. 0 1 1 2 3 5 8 13 21…….
+// Input: n=7
+// Output: 8
+
 #include <stdio.h>
 #include <stdlib.h>
 int fib(int n){
